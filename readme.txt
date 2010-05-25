@@ -1,6 +1,5 @@
 === Twitter Hash Tag Widget ===
-Contributors: sivel
-Donate Link: http://sivel.net/donate/
+Contributors: williamsba1
 Tags: twitter-hash-tag-widget, twitter, hash, tag, widget, sidebar
 Requires at least: 2.8
 Tested up to: 2.9
