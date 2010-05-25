@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Twitter Hash Tag Widget
-Plugin URI: http://sivel.net/2009/06/twitter-hash-tag-widget/
+Plugin URI: http://webdevstudios.com/support/wordpress-plugins/
 Description: A widget for displaying the most recent twitter status updates for a particular hash tag.
-Author: Matt Martz
-Author URI: http://sivel.net/
+Author: Brad Williams
+Author URI: http://webdevstudios.com/
 Version: 1.1
 
-        Copyright (c) 2009 Matt Martz (http://sivel.net/)
+        Copyright (c) 2009-2010 Brad Williams (http://webdevstudios.com/)
         Twitter Hash Tag Widget is released under the GNU General Public License (GPL)
         http://www.gnu.org/licenses/gpl-2.0.txt
 */
